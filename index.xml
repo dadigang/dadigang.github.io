@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://dadigang.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Dec 2022 02:25:26 +0000</lastBuildDate><atom:link href="https://dadigang.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>https://dadigang.github.io/post/first/</link>
+      <pubDate>Sat, 10 Dec 2022 02:25:26 +0000</pubDate>
+      
+      <guid>https://dadigang.github.io/post/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://dadigang.github.io/about/</link>
+      <pubDate>Sat, 10 Dec 2022 02:25:14 +0000</pubDate>
+      
+      <guid>https://dadigang.github.io/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
